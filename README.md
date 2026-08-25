@@ -8,7 +8,7 @@ Is there a direct relationship between traffic congestion and GDP per capita?
 The analysis uses data from:
 - TomTom Traffic Index
 - OECD economic indicators
-The dataset covers 15 Latin American cities for 2024.
+- The dataset covers 15 Latin American cities for 2024.
 
 ## Analytical Approach
 - Data cleaning and preparation
