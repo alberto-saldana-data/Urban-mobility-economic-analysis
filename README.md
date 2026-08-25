@@ -29,3 +29,11 @@ to better understand the factors associated with urban congestion.
 
 ## Tools
 Python · Pandas · NumPy · Data Cleaning · Data Visualization
+
+## Copyright
+
+© 2026 Alberto Saldana. All rights reserved.
+
+This project is presented for portfolio and educational purposes.
+The code, analysis, and written content may not be reproduced,
+distributed, modified, or used commercially without permission.
