@@ -19,10 +19,7 @@ The dataset covers 15 Latin American cities for 2024.
 - Comparative analysis
 
 ## Key Findings
-No direct relationship was identified between traffic congestion
-and GDP per capita in the analyzed sample.
-Mexico City emerged as a priority case for further investigation
-due to its atypically high congestion levels.
+No direct relationship was identified between traffic congestion and GDP per capita. Mexico City was identified as a priority case for further analysis of public transportation infrastructure due to its atypically high congestion level (2,833 minutes, compared with a median of 629.52 minutes across the cities analyzed).
 
 ## Recommendations
 Future analysis should incorporate additional socioeconomic variables,
